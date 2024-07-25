@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charitidis Konstantinos
-- 🌱 I’m currently doing a Master's degree in applied Bioinformatics
+- 🌱 Molecular Biologist, doing a Master's degree in applied Bioinformatics
 - 📫 How to reach me:
 - email: charitidisk@gmail.com
 - linkdin: linkedin.com/in/charitidiskonstantinos
