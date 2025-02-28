@@ -1,5 +1,5 @@
 ## Hello, I'm Charitidis Konstantinos! 
-I'm a Molecular Biologist and Geneticist, pursuing a Master's degree in Applied Bioinformatics. 
+I'm a Molecular Biologist and Geneticist, with an MSc in Applied Bioinformatics. 
 
 ## How to reach me: 📫
 
