@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="320" viewBox="0 0 520 320" role="img" aria-label="A ThinkPad-style laptop typing a Nextflow command that runs the CosMx-Nf pipeline, which runs out of memory">
-<rect x="66" y="6" width="388" height="196" rx="9" fill="#1c1c1c" stroke="#2e2e2e" stroke-width="2"/>
+<rect x="66" y="6" width="388" height="196" rx="9" fill="#1c1c1c" stroke="#5c5c5c" stroke-width="2.5"/>
 <circle cx="260" cy="17" r="2.5" fill="#0a0a0a" stroke="#333" stroke-width="1"/>
 <rect x="88" y="28" width="344" height="154" rx="2" fill="#0d1117"/>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">
@@ -20,8 +20,8 @@
 <rect x="96" y="200" width="328" height="8" rx="3" fill="#111"/>
 <rect x="110" y="201" width="60" height="6" rx="3" fill="#262626"/>
 <rect x="350" y="201" width="60" height="6" rx="3" fill="#262626"/>
-<path d="M66 206 H454 L486 300 H34 Z" fill="#1c1c1c" stroke="#2e2e2e" stroke-width="2" stroke-linejoin="round"/>
-<path d="M34 300 H486 V308 Q486 313 480 313 H40 Q34 313 34 308 Z" fill="#111"/>
+<path d="M66 206 H454 L486 300 H34 Z" fill="#1c1c1c" stroke="#5c5c5c" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M34 300 H486 V308 Q486 313 480 313 H40 Q34 313 34 308 Z" fill="#111" stroke="#5c5c5c" stroke-width="2" stroke-linejoin="round"/>
 <g font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
 <rect x="104.0" y="212.0" width="18.8" height="10" rx="1.2" fill="#0a0a0a" stroke="#3a3a3a" stroke-width="0.6"></rect>
 <text x="113.3" y="219.0" font-size="5.6" fill="#b0b0b0">`</text>
