@@ -1,4 +1,4 @@
- <p align="center"><img src="assets/laptop.svg" alt="Laptop running the CosMx-Nf pipeline" width="520"></p>
+ <p align="center"><img src="laptop.svg" alt="Laptop running the CosMx-Nf pipeline" width="520"></p>
 ## Hello, I'm Konstantinos Charitidis! 
 Bioinformatician in Stockholm. I work on spatial and single-cell transcriptomics, bulk RNA-seq and proteomics in autoimmune disease. 
 I work mostly in R and Bash, build pipelines in Nextflow, keep my code in Git and run it in Conda environments and Apptainer containers so the analyses are reproducible.
